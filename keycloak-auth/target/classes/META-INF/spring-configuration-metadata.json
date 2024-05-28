@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.auth.converter",
+      "type": "com.jk.auth.configuration.KeyCloakConfiguration",
+      "sourceType": "com.jk.auth.configuration.KeyCloakConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.auth.converter.principal-attribute",
+      "type": "java.lang.String",
+      "sourceType": "com.jk.auth.configuration.KeyCloakConfiguration"
+    },
+    {
+      "name": "jwt.auth.converter.resource-id",
+      "type": "java.lang.String",
+      "sourceType": "com.jk.auth.configuration.KeyCloakConfiguration"
+    }
+  ],
+  "hints": []
+}
